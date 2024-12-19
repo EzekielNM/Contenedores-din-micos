@@ -1,0 +1,3 @@
+C:/Users/Ezekiel/Documents/GitHub/Contenedores-din-micos/cmake-build-debug/CMakeFiles/Contenedores_din_micos.dir
+C:/Users/Ezekiel/Documents/GitHub/Contenedores-din-micos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ezekiel/Documents/GitHub/Contenedores-din-micos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
